@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Ejercicio_24
+namespace Ejercicio_24_Cambio_esto_de_prueba
 {
     public partial class Form1 : Form
     {
